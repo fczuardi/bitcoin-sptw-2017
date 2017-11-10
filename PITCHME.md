@@ -48,8 +48,8 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 # Ônibus Hacker
 
 - autonomia, liberdade
-- tecnologia
-- cultura, arte
+- tecnologia, jogos
+- cultura, arte, desobediência
 
 +++
 
@@ -69,7 +69,15 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 
 +++
 
-# Ônibus Hacker
+# Oficinas
+
+- lockpicking
+- crochê
+- cinema (stopmotion)
+- móveis de papelão
+- cuidar do lixo
+- stencil, fanzine, ...
+
 +++
 
 # Ônibus Hacker

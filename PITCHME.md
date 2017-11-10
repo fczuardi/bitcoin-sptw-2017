@@ -82,6 +82,9 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 
 # Ônibus Hacker
 
+> erro erro erro, teimosia ... falta de noção
+> -- Evelyn Gomes
+
 ---
 
 # Social Scalability

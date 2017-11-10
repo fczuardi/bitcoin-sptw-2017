@@ -31,10 +31,17 @@
 # Ônibus Hacker
 
 - invasões
+- chamadas abertas
+- custos
 
 +++
 
 # Ônibus Hacker
+
+- modelo caótico
+- pouco sustentável
+- vivo ha 6 anos
+
 +++
 
 # Ônibus Hacker
@@ -59,10 +66,15 @@
 
 ---
 
-# Blockchain
+# Blockchains
 
 +++
-# Blockchain
+# Blockchains
+
+- computacionalmente ineficientes
+- caras, redundantes
+- pouco escaláveis
+
 
 +++
 # Blockchain

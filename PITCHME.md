@@ -157,9 +157,9 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 > -- Nick Szabo
 
 +++
-# Scalable money
-- Scalable markets and prices require scalable money.
-- Scalable money requires scalable security
+# Bitcoin tradeoffs
+- security vs performance
+- data integrity via computer science vs "call-the-cops"
 
 +++
 # Bitcoin
@@ -167,7 +167,7 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 - social scalability via trust minimization
 - máquinas são baratas
 - pessoas são caras
-  - advogados, contadores, fiscais, juízes, polícia são caros
+  - advogados, contadores, fiscais, juízes, polícia, ...
 
 +++
 # Open Blockchais
@@ -182,16 +182,4 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 +++
 # Turst minimization
 >Trust in the secret and arbitrarily mutable activities of a private computation can be replaced by verifiable confidence in the behavior of a generally immutable public computation
-
-+++
-# Blockchain
-
-+++
-# Blockchain
-
-+++
-# Blockchain
-
-+++
-# Blockchain
 

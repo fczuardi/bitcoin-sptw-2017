@@ -75,9 +75,8 @@
 +++
 
 # Social Scalability
-### (of a technology that facilitates an institution)
 
-> . The social scalability of an institutional technology depends on how that technology constrains or motivates participation in that institution, including protection of participants and the institution itself from harmful participation or attack.
+> The social scalability of an institutional technology depends on how that technology constrains or motivates participation in that institution, including protection of participants and the institution itself from harmful participation or attack.
 
 +++
 

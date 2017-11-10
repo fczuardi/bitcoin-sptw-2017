@@ -14,7 +14,7 @@
 
 # Por que vc veio?
 
-Vim para espalhar a palavra, o caminho e a luz de nossa salvadora Satoshi Nakamoto
+Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 +++
 
 |Normal | Segwit |

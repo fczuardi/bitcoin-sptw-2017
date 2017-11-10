@@ -1,7 +1,7 @@
 
-# Bitcoin :heart:
+# Tecnologias e Grupos
 ## Fabricio C Zuardi
-### Inovação Aberta, Blockchain e Políticas Públicas - Novembro 2017
+#### Inovação Aberta, Blockchain e Políticas Públicas - Novembro 2017
 
 +++
 

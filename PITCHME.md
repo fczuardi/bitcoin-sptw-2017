@@ -64,7 +64,7 @@
 
 # Social Scalability
 
-> Social scalability is the **ability of an institution** [...] **to overcome shortcomings in human minds** and in the motivating or constraining aspects of said institution that limit who or **how many can successfully participate**.
+> Social scalability is the **ability** of an institution [...] to **overcome shortcomings in human minds** and in the motivating or constraining aspects of said institution that limit who or **how many can successfully participate**.
 
 +++
 

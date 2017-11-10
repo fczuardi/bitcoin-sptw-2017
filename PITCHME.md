@@ -74,9 +74,8 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 - lockpicking, crypto
 - crochê, tricô, stencil, fanzine
 - rádio (pirata), cinema (stopmotion)
-- móveis de papelão
-- cuidar do lixo
-- stencil, fanzine, ...
+- móveis de papelão, estrela ninja
+- cuidar do lixo, conserto de bicicleta
 
 +++
 

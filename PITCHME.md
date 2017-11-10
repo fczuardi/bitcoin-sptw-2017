@@ -64,6 +64,24 @@
 
 # Social Scalability
 
+> Social scalability is the **ability of an institution** –- a relationship or shared endeavor, in which multiple people repeatedly participate, and featuring customs, rules, or other features which constrain or motivate participants’ behaviors -- **to overcome shortcomings in human minds** and in the motivating or constraining aspects of said institution that limit who or **how many can successfully participate**.
+
++++
+
+# Social Scalability
+
++++
+
+# Social Scalability
+
++++
+
+# Social Scalability
+
++++
+
+# Social Scalability
+
 ---
 
 # Blockchains

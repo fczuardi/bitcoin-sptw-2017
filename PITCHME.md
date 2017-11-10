@@ -165,8 +165,9 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 # Bitcoin
 
 - social scalability via trust minimization
-- computador é barato
-- advogados, contadores, fiscais, juízes, polícia são caros
+- máquinas são baratas
+- pessoas são caras
+  - advogados, contadores, fiscais, juízes, polícia são caros
 
 +++
 # Open Blockchais

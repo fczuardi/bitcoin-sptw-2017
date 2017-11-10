@@ -65,7 +65,7 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 
 - modelo caótico
 - pouco sustentável
-- vivo ha 6 anos
+- vivo há 6 anos
 
 +++
 

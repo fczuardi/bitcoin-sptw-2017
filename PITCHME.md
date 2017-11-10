@@ -9,13 +9,12 @@
 
 - não me interesso por políticas públicas
 - não acredito que Blockchain > Bitcoin
-- não recebi nem a ajuda da passagem
 
 +++
 
 # Por que vc veio?
 
-Vim para espalhar a palavra, a verdade e a luz de nossa salvadora Satoshi Nakamoto
+Vim para espalhar a palavra, o caminho e a luz de nossa salvadora Satoshi Nakamoto
 
 ---
 

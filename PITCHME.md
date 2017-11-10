@@ -115,13 +115,6 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 
 +++
 
-# Social Scalability
-### (of a technology that facilitates an institution)
-
-> The more an institution depends on local laws, customs, or language, the less socially scalable it is.
-
-+++
-
 # Dunbar Number
 - Robin Dunbar
 - correlation between primate brain size and average social group size.
@@ -132,6 +125,13 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 # Social Scalability
 
 > Matchmaking is probably the kind of social scalability at which the Internet has most excelled
+
++++
+
+# Social Scalability
+### (of a technology that facilitates an institution)
+
+> The more an institution depends on local laws, customs, or language, the less socially scalable it is.
 
 ---
 

@@ -118,10 +118,10 @@ Vim para espalhar a palavra, o caminho e a luz de nossa salvadora Satoshi Nakamo
 
 ---
 
-# Blockchains
+# Bitcoin
 
 +++
-# Bitcoin's Blockchain
+# Bitcoin Blockchain
 
 - computacionalmente ineficientes
 - caras, redundantes
@@ -147,4 +147,3 @@ Vim para espalhar a palavra, o caminho e a luz de nossa salvadora Satoshi Nakamo
 +++
 # Blockchain
 
----

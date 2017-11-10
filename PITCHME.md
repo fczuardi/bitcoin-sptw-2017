@@ -17,6 +17,12 @@
 Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 +++
 
+# Por que vc veio?
+
+...e tb pq estamos levantando fundos :)
+
++++
+
 |Normal | Segwit |
 |----------|-----------|
 | <img width="400" src="https://user-images.githubusercontent.com/7760/32665227-bcd84420-c61a-11e7-9abe-874383fd6753.jpeg" /> | <img width="400" src="https://user-images.githubusercontent.com/7760/32665166-910fe1a4-c61a-11e7-853f-6a3c08e4516a.jpg" /> |
@@ -164,6 +170,14 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 # Bitcoin
 
 - social scalability via trust minimization
+- computador é barato
+- advogados, contadores, fiscais, juízes, polícia são caros
+
++++
+# Open Blockchais
+
+- independence from existing institutions for its basic operations
+- ability to operate seamlessly across borders
 
 +++
 # Blockchain

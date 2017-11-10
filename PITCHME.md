@@ -128,7 +128,8 @@
 > Whereas the main social scalability benefit of the Internet has been matchmaking, the predominant direct social scalability benefit of blockchains is trust minimization
 
 +++
-# Blockchain
+# Turst minimization
+>Trust in the secret and arbitrarily mutable activities of a private computation can be replaced by verifiable confidence in the behavior of a generally immutable public computation
 
 +++
 # Blockchain

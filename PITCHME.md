@@ -95,7 +95,10 @@
 
 +++
 
-# Social Scalability
+# Dunbar Number
+- Robin Dunbar
+- correlation between primate brain size and average social group size.
+- 150
 
 +++
 

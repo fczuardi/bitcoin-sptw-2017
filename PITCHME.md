@@ -1,5 +1,5 @@
 
-# Tecnologias e Grupos
+# Escalando Grupos
 ## Fabricio C Zuardi
 #### Inovação Aberta, Blockchain e Políticas Públicas - Novembro 2017
 

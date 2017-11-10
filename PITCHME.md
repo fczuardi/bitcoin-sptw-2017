@@ -20,7 +20,7 @@ Vim para espalhar a palavra, o caminho e a luz de nossa salvadora Satoshi Nakamo
 |Normal | Segwit |
 |----------|-----------|
 | <img width="400" src="https://user-images.githubusercontent.com/7760/32665227-bcd84420-c61a-11e7-9abe-874383fd6753.jpeg" /> | <img width="400" src="https://user-images.githubusercontent.com/7760/32665166-910fe1a4-c61a-11e7-853f-6a3c08e4516a.jpg" /> |
-| 1A9Za7FQu6ZvVcJ3AaGd8pnqMtrUziuUtD | 3NLwYUE1fsLwHqPD8KG4LtMkYwAzi2LTvu |
+| <small>1A9Za7FQu6ZvVcJ3AaGd8pnqMtrUziuUtD</small> | <small>3NLwYUE1fsLwHqPD8KG4LtMkYwAzi2LTvu</small> |
 
 
 ---

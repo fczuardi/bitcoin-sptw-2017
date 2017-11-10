@@ -157,14 +157,9 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 > -- Nick Szabo
 
 +++
-# Turst minimization
->Trust in the secret and arbitrarily mutable activities of a private computation can be replaced by verifiable confidence in the behavior of a generally immutable public computation
-
-+++
 # Scalable money
 - Scalable markets and prices require scalable money.
 - Scalable money requires scalable security
-- use the currency without losing its integrity against forgery, inflation, and theft
 
 +++
 # Bitcoin
@@ -182,6 +177,10 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 +++
 # Blockchain
 > Whereas the main social scalability benefit of the Internet has been matchmaking, the predominant direct social scalability benefit of blockchains is trust minimization
+
++++
+# Turst minimization
+>Trust in the secret and arbitrarily mutable activities of a private computation can be replaced by verifiable confidence in the behavior of a generally immutable public computation
 
 +++
 # Blockchain

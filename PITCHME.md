@@ -69,15 +69,17 @@
 # Blockchains
 
 +++
-# Blockchains
+# Bitcoin's Blockchain
 
 - computacionalmente ineficientes
 - caras, redundantes
 - pouco escaláveis
 
-
 +++
-# Blockchain
+# Bitcoin
+
+> Bitcoin offends the sensibilities of resource-conscious and performance-measure-maximizing engineers and businessmen alike.
+> -- Nick Szabo
 
 +++
 # Blockchain

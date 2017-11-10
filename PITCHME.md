@@ -71,9 +71,9 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 
 # Oficinas
 
-- lockpicking
-- crochê
-- cinema (stopmotion)
+- lockpicking, crypto
+- crochê, tricô, stencil, fanzine
+- rádio (pirata), cinema (stopmotion)
 - móveis de papelão
 - cuidar do lixo
 - stencil, fanzine, ...
@@ -83,7 +83,7 @@ Vim para espalhar a palavra, da nossa "salvadora" Satoshi Nakamoto
 # Ônibus Hacker
 
 > erro erro erro, teimosia ... falta de noção
--- Evelyn Gomes
+<center>Evelyn Gomes</center>
 
 ---
 

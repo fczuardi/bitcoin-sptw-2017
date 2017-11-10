@@ -14,6 +14,14 @@
 
 # Ônibus Hacker
 
+- http://onibushacker.org
+- https://groups.google.com/forum/#!forum/onibushacker
+- https://www.facebook.com/onibushacker/
+
++++
+
+# Ônibus Hacker
+
 - junho 2011
 - mailing list Transparência Hacker
 - 2 meses, 500 pessoas, R$60k

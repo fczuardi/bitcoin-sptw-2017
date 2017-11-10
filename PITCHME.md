@@ -10,6 +10,10 @@
 
 # Ônibus Hacker
 
++++
+
+# Ônibus Hacker
+
 - junho 2011
 - mailing list Transparência Hacker
 - 2 meses, 500 pessoas, R$60k
@@ -17,9 +21,24 @@
 ---
 
 # Social Scalability
++++
+
+# Social Scalability
++++
+
+# Social Scalability
 
 ---
 
+# Blockchain
+
++++
+# Blockchain
+
++++
+# Blockchain
+
++++
 # Blockchain
 
 ---

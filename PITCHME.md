@@ -17,8 +17,6 @@
 Vim para espalhar a palavra, o caminho e a luz de nossa salvadora Satoshi Nakamoto
 +++
 
-# Obrigado
-
 |Normal | Segwit |
 |----------|-----------|
 | ![bus-pubkey](https://user-images.githubusercontent.com/7760/32665227-bcd84420-c61a-11e7-9abe-874383fd6753.jpeg) | ![bus-segwit](https://user-images.githubusercontent.com/7760/32665166-910fe1a4-c61a-11e7-853f-6a3c08e4516a.jpg) |

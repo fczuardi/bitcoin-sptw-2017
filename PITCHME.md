@@ -75,6 +75,9 @@
 +++
 
 # Social Scalability
+### (of a technology that facilitates an institution)
+
+> The more an institution depends on local laws, customs, or language, the less socially scalable it is.
 
 +++
 
